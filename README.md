@@ -31,11 +31,11 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:- [TERMUX HSSEIN AIL](https://t.me/MR_HC6)
+- 📱 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:- [HUSSEIN ALI](https://t.me/MR_HC6)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [ZERO-404-xd](https://github.com/l5lmqq)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [Hussein Ali](https://github.com/l5lmqq)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
