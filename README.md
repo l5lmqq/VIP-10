@@ -14,7 +14,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center">A frontend developer from Jordan</h3>
+<h3 align="center"> 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑 𝐇𝐔𝐒𝐒𝐄𝐈𝐍 𝐀𝐋𝐈 </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdarkyt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
 </i></b></h3>
